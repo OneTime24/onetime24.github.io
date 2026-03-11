@@ -1,4 +1,4 @@
-baseURL = "https://OneTime24.github.io/"
+baseURL = "https://onetime24.github.io/"
 languageCode = "en-us"
 title = "My Blog"
 theme = "ananke"
