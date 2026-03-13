@@ -6,8 +6,22 @@
     <description>Recent content in Posts on My Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Mar 2026 13:12:13 +0500</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beginner Guide: Basic Git and GitHub Commands</title>
+      <link>http://localhost:1313/posts/git-baics/</link>
+      <pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/git-baics/</guid>
+      <description>&lt;h1 id=&#34;beginner-guide-basic-git-and-github-commands&#34;&gt;Beginner Guide: Basic Git and GitHub Commands&lt;/h1&gt;&#xA;&lt;p&gt;Git is a distributed version control system used to track changes in code, while GitHub is a platform that allows developers to host and collaborate on Git repositories.&lt;/p&gt;&#xA;&lt;p&gt;This guide introduces the most important Git and GitHub commands that every beginner should know.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;1-configure-git&#34;&gt;1. Configure Git&lt;/h1&gt;&#xA;&lt;p&gt;Before using Git, you should configure your username and email.&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git config --global user.name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;OneTime24&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git config --global user.email &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;onetimehexa@gmail.com&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Basic Git and GitHub Commands</title>
+      <link>http://localhost:1313/posts/basic_git_commands/</link>
+      <pubDate>Wed, 11 Mar 2026 12:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/basic_git_commands/</guid>
+      <description>&lt;h1 id=&#34;basic-git-and-github-commands&#34;&gt;Basic Git and GitHub Commands&lt;/h1&gt;&#xA;&lt;p&gt;Here is a list of essential commands for working with Git and GitHub:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-git-configuration&#34;&gt;1. Git Configuration&lt;/h2&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git config --global user.name &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Your Name&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;git config --global user.email &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;you@example.com&amp;#34;&lt;/span&gt;&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>http://localhost:1313/posts/introduction/</link>
