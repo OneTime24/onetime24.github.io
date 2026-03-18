@@ -12,9 +12,24 @@ enableRobotsTXT = true
 summaryLength = 0
 
 buildDrafts = false
-buildFuture = false
+buildFuture = true
 
 enableEmoji = true
+
+[[menus.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 2
+
+[[menus.main]]
+  name = "Contact"
+  url = "/contact/"
+  weight = 3
 
 # googleAnalytics = "G-XXXXXXXXX"
 

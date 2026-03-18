@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Blowfish"
+title = "Mohsin Ali"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "Blowfish"
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  # description = "My awesome website"
+  description = "Computer Science Student | AI Enthusiast"
   # copyright = "Copy, _right?_ :thinking_face:"
 
  [params.author]
@@ -19,7 +19,7 @@ title = "Blowfish"
    email = "mohsin24ali24@gmail.com"
    image = "https://avatars.githubusercontent.com/u/125582902?v=4"
    imageQuality = 96
-   headline = "I'm only human"
+   headline = "Computer Science Student | Ai enthusiasts"
    bio = "A little bit about me"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
