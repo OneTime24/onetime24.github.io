@@ -1,4 +1,5 @@
 ---
+title: "Git and GitHub Basics"
 tags: ["git","github","colloaboration"]
 date: 2026-03-18T10:00:00+05:00
 publishDate: 2026-03-18T00:00:00+05:00
